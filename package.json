@@ -1,0 +1,16 @@
+{
+  "name": "nitromining",
+  "version": "3.10.02",
+  "description": "",
+  "main": "new.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Han#9122",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+    
+  }
+}

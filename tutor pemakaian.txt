@@ -1,0 +1,5 @@
+//pertama ketik di console 
+npm install
+
+//lalu masukkan token bot sama prefix bot di .env lalu jalankan bot dengan ketik node nitrobot.js
+//untuk cmd nya <prefix bot yg disetting>nitromining
